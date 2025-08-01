@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c613a56a4f2617438ef4222846c4ba0, type: 3}
+  m_Name: Skill_4
+  m_EditorClassIdentifier: 
+  _skillName: Skill_4
+  _InSkillName: "\uC794\uC2DC"
+  _skillStamina: 120
+  _coolDown: 120
+  _curLv: 0
+  _maxLv: 5
+  _skillSprite: {fileID: 21300000, guid: e53023cee32d76744a97265395915c46, type: 3}
+  _skillEx: "\uC804\uBC29\uC73C\uB85C \uC804\uC9C4\uD558\uBA70 \uC5F0\uC18D\uC73C\uB85C
+    \uAC80\uC744 \uD718\uB4DC\uB978 \uD6C4 \uB0B4\uB824\uCC0D\uB294\uB2E4.\n\n\uC801\uC744
+    10\uD68C \uACF5\uACA9\uB825\uC758 {0}% \uB9CC\uD07C \uACF5\uACA9\uD55C\uB2E4.\n\n\uC2A4\uD0AC
+    \uB808\uBCA8\uC758 {1}\uB9CC\uD07C %\uAC00 \uC99D\uAC00\uD569\uB2C8\uB2E4."
+  _class: 1
+  _buffType: 0
+  _buffDuration: 0
+  _buffPercent: 0
+  _AD: 100
+  _passivePercent: 0
+  _passiveNum: 0

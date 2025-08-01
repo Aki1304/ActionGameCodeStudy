@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c613a56a4f2617438ef4222846c4ba0, type: 3}
+  m_Name: MaxStamina_Passive
+  m_EditorClassIdentifier: 
+  _skillName: MaxStamina_Passive
+  _InSkillName: "\uCD5C\uB300 \uC2A4\uD0DC\uBBF8\uB098 \uC99D\uAC00"
+  _skillStamina: 0
+  _coolDown: 0
+  _curLv: 0
+  _maxLv: 10
+  _skillSprite: {fileID: 21300000, guid: 5f24440acb3a8be4db61b62edc2fa8a2, type: 3}
+  _skillEx: "\uD50C\uB808\uC774\uC5B4\uC758 \uD604\uC7AC \uCD5C\uB300 \uC2A4\uD0DC\uBBF8\uB098\uB97C
+    {0} \uB9CC\uD07C \uC62C\uB9BD\uB2C8\uB2E4."
+  _class: 3
+  _buffType: 0
+  _buffDuration: 0
+  _buffPercent: 0
+  _AD: 0
+  _passivePercent: 20
+  _passiveNum: 2

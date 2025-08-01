@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3561b9c8474d9cb4cbb34104a6db1873, type: 3}
+  m_Name: P_SkillPoint
+  m_EditorClassIdentifier: 
+  _perkName: SkillPoint
+  _toolTipName: "\uC2A4\uD0AC \uD3EC\uC778\uD2B8 \uD68D\uB4DD"
+  _perkEx: "\uC2A4\uD0AC\uD3EC\uC778\uD2B8\uB97C 2\uAC1C \uD68D\uB4DD\uD569\uB2C8\uB2E4."
+  _perkSprite: {fileID: 21300000, guid: 878b74f5fe45474489109a6535c9b368, type: 3}
+  _perkEffect: {fileID: 11400000, guid: 9bcb8ba8522da6543ae5f4c5f6be867d, type: 2}
